@@ -7,7 +7,7 @@ Computer Science Student at <a href="https://www.utk.edu/">UTK</a>
 * 🌍  I'm based in Knoxville, TN
 * 🖥️  See my portfolio at [My Protfolio](http://manan-dev.github.io/web/)
 * ✉️  You can contact me at [Mananpatel6902@gmail.com](mailto:Mananpatel6902@gmail.com) or at [Mpatel65@vols.utk.edu](mailto:Mpatel65@vols.utk.edu)
-* 🧠  I'm currently learning Ember.js, React.js, React Native, C language
+* 🧠  I'm currently learning Ember.js, C language, Machine Learning
 
 ### Skills
 
