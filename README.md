@@ -1,7 +1,7 @@
 Hi 👋 My name is Manan Patel
 ============================
 
-Computer Science Student at <a href="https://www.utk.edu/">UTK</a>
+Computer Science Student at <a href="https://www.utk.edu/">UTK</a> (2020 - Expected. 2024)
 -------------------------------
 
 * 🌍  I'm based in Knoxville, TN
