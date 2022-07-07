@@ -1,5 +1,4 @@
-Hi 👋 My name is Manan Patel
-============================
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+My+Name+is+Manan+Patel)](https://git.io/typing-svg)
 
 Computer Science Student at <a href="https://www.utk.edu/">UTK</a> (2020 - Expected. 2024)
 -------------------------------
