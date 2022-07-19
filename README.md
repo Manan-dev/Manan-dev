@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+My+Name+is+Manan+Patel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Signika+Negative&duration=6000&lines=Hi+👋+My+Name+is+Manan+Patel)](https://git.io/typing-svg)
 
 Computer Science Student at <a href="https://www.utk.edu/">UTK</a> (2020 - Expected. 2024)
 -------------------------------
