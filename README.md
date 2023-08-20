@@ -4,7 +4,7 @@ Computer Science Student at <a href="https://www.utk.edu/">UTK</a> (2020 - Expec
 -------------------------------
 
 * 🌍  I'm based in Knoxville, TN
-* 🖥️  See my portfolio [here](http://manan-dev.github.io/web/)
+* 🖥️  See my portfolio [here](http://manan-dev.github.io/)
 * ✉️  You can contact me at [Mananpatel6902@gmail.com](mailto:Mananpatel6902@gmail.com) or at [Mpatel65@vols.utk.edu](mailto:Mpatel65@vols.utk.edu)
 * 🧠  I'm currently learning Typescript, Docker, and NextJS
 
