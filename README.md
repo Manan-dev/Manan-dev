@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Manan Patel</h1>
 
-Computer Science Student at <a href="https://www.utk.edu/">UTK</a> (2020 - Expected. 2024)
+Computer Science Student at <a href="https://www.utk.edu/">UTK</a> (2020 - 2024)
 -------------------------------
 
 * 🌍  I'm based in Knoxville, TN
